@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Multilingual app (i18n) + Vue 3 + Vuelidate
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This app is an excercise by making an app with Vue 3 and the internalization language.
 
-## Recommended IDE Setup
+## i18n support
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Vuelidate: All the messages supported for this library were translated for a better user experience when using a form.
+
+- Texts: All the text of the app can be translated, the only requirement is to add the value to the JSON.
